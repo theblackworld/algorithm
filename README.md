@@ -1,2 +1,3 @@
 # algorithm
 used for daily practise
+include sort , map , greedy map.........
